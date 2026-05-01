@@ -9,7 +9,7 @@ A Streamlit application for simulating customer support conversations, evaluatin
 
 ## Live Demo
 
-[Open the deployed app](https://conversation-apper-8qc4uvcrvbewzefbgqmn4z.streamlit.app/)
+[Open the deployed app]([https://conversation-apper-8qc4uvcrvbewzefbgqmn4z.streamlit.app/](https://conversation-analyser-app.streamlit.app/))
 
 ## Overview
 
